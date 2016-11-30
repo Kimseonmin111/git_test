@@ -1,5 +1,7 @@
 //202호 포에버
 //202 forever
+//please! recording~!
+
 printf("lalala~~~")
 printf("lololo~~~")
 printf("lululu~~~")
